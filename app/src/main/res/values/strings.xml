@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reminder Application</string>
+
+    <string-array name="listArray">
+        <item>Haftalık</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </string-array>
+
+
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

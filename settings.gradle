@@ -1,0 +1,2 @@
+rootProject.name='ReminderApplication'
+include ':app'
